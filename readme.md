@@ -4,7 +4,6 @@ Github 에 호스팅하던 글들을 일부 에버노트로 옮겼습니다.
 
 ## JavaScript
 
-* [JavaScript ABC](https://www.evernote.com/pub/drypot/javascriptabc)
 * [jQuery](https://www.evernote.com/pub/drypot/jqueryabc)
 
 ## Git
